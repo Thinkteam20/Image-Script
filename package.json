@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "tinify": "^1.7.1"
+  },
+  "name": "momini",
+  "scripts": {
+    "minify": "node minify.js",
+    "format": "node format.js"
+  },
+  "keywords": [],
+  "author": "Mosafe",
+  "license": "ISC",
+  "description": ""
+}
